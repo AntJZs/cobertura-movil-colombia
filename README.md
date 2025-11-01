@@ -1,6 +1,6 @@
 # Análisis de Cobertura Móvil en Colombia
 
-Proyecto de ciencia de datos que analiza la evolución de la cobertura móvil por tecnología (2G, 3G, 4G, LTE, 5G) en Colombia, con enfoque en proveedores y distribución geográfica.
+Proyecto de ciencia de datos que analiza la evolución de la cobertura móvil por tecnología (2G, 3G, 4G y 5G) en Colombia, con enfoque en proveedores y distribución geográfica.
 
 ## Datos
 
